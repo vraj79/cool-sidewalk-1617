@@ -1,0 +1,12 @@
+.first{
+    width: 90%;
+    margin:auto;
+    margin-top: 30px;
+    background-color: white;
+    padding: 1%;
+    padding-left: 3%;
+}
+.second{
+    display: flex;
+    gap: 20px;
+}
