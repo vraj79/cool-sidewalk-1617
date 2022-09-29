@@ -51,33 +51,33 @@ const Top = () => {
                 <h2 style={{textAlign:"center"}}>"Ashok Gehlot Won't Resign," Says Key Aide Ahead Of Sonia Gandhi Meet</h2>
             </div>
             <div style={{backgroundColor:"white",borderRadius:"5px",padding:"3%"}}  >
-                <div style={{display:"flex",gap:"20px"}} >
+                <div style={{display:"flex",justifyContent:'space-between'}} >
                     <h3>Xi's Back, Claims Chinese Media. Here's Why His Appearance Is Big News</h3>
                     <img src="https://c.ndtvimg.com/2022-09/r201j9q8_xi-jinping_120x90_27_September_22.jpg?downsize=100:75" alt="" />
                 </div>
                 <hr />
-                <div style={{display:"flex",gap:"30px"}} >
+                <div style={{display:"flex",justifyContent:'space-between'}} >
                     <h3>Popular Front Of India Banned For 5 Years Over "Terror Links": 10 Points</h3>
                     <img src="https://c.ndtvimg.com/2022-09/9g0jr88o_pfi-raids_120x90_28_September_22.jpg?downsize=100:75" alt="" />
                 </div>
                 <hr />
-                <div style={{display:"flex",gap:"30px"}} >
+                <div style={{display:"flex",justifyContent:'space-between'}} >
                     <h3>"Want To Focus On Madhya Pradesh": Kamal Nath On Congress Top Job</h3>
                     <img src="https://c.ndtvimg.com/2022-09/kip0l898_kamal-nath_120x90_28_September_22.jpg?downsize=100:75" alt="" />
                 </div>
             </div>
             <div style={{backgroundColor:"white",borderRadius:"5px",padding:"3%",marginTop:"50px"}}>
-                <div style={{display:"flex",gap:"30px"}}>
+                <div style={{display:"flex",justifyContent:'space-between'}}>
                     <h3>Watch: Astronaut Does Yoga In Space, Perfectly Aces Difficult Pose</h3>
                     <img src="https://c.ndtvimg.com/2022-09/pvj97kj_ms-cristoforetti-can-be-seen-striking-yoga-poses_625x300_28_September_22.jpg?im=FaceCrop,algorithm=dnn,width=100,height=75" alt="" />
                 </div>
                 <div><hr /></div>
-                <div style={{display:"flex",gap:"30px"}}>
+                <div style={{display:"flex",justifyContent:'space-between'}}>
                     <h3>More Pics From Chum Darang's Arunachal Diaries</h3>
                     <img src="https://c.ndtvimg.com/2022-09/tk2cngi_chum_120x90_28_September_22.jpg?downsize=100:75" alt="" />
                 </div>
                 <div><hr /></div>
-                <div style={{display:"flex",gap:"30px"}}>
+                <div style={{display:"flex",justifyContent:'space-between'}}>
                     <h3>Mahesh Babu, Namrata Shirodkar's Emotional Posts For Mom Indira Devi</h3>
                     <img src="https://c.ndtvimg.com/2022-09/4gfa9as_mahesh_120x90_28_September_22.jpg?downsize=100:75" alt="" />
                 </div>

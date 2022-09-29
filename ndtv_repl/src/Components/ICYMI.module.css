@@ -1,0 +1,25 @@
+.first{
+    width: 94%;
+    margin: auto;
+}
+.second{
+    display: grid;
+    text-align: center;
+    grid-template-columns: repeat(5,1fr);
+    gap: 10px;
+}
+.icy{
+    position: relative;
+    bottom: 120px;
+}
+.btn{
+    background-color: yellow;
+    padding: 2.5%;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 0;
+}
+.head{
+    color: whitesmoke;
+}

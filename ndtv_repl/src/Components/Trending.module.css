@@ -1,0 +1,12 @@
+.first{
+    width: 94%;
+    margin: auto;
+    margin-top: -80px;
+    margin-bottom: 50px;
+}
+.second{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    gap: 15px;
+    text-align: center;
+}
