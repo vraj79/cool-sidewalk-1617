@@ -1,0 +1,21 @@
+.footer{
+    background-color: rgb(202, 197, 197);
+    margin-top: 50px;
+    display: flex;
+}
+.nav_down_img{
+    /* width: 7%; */
+    height: 50px;
+ }
+ .nav_down_icon{
+    /* width: 2%; */
+    height: 45px;
+    border-radius: 50%;
+ }
+ .footerone{
+    width: 90%;
+    margin: auto;
+    padding: 1.5%;
+    display: flex;
+    justify-content: space-between;
+ }
