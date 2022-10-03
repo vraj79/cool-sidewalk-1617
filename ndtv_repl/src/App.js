@@ -1,4 +1,5 @@
 import './App.css';
+import Footer from './Components/Footer';
 import ICYMI from './Components/ICYMI';
 import Navbar from './Components/Navbar';
 import NewsCategory from './Components/NewsCategory';
@@ -15,6 +16,7 @@ function App() {
       <ICYMI/>
       <Trending/>
       <NewsCategory/>
+      <Footer/>
     </div>
   );
 }
