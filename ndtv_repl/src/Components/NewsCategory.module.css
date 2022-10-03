@@ -1,0 +1,53 @@
+.first{
+    width: 94%;
+    margin: auto;
+}
+.second{
+    display: grid;
+    grid-template-columns: 26% 42% 30%;
+    gap: 20px;
+}
+.hindi{
+    display: grid;
+    gap: 15px;
+    font-size: 18px;
+}
+.hindione{
+    display: flex;
+    padding: 3%;
+    gap: 30px;
+    background-color: white;
+    border-radius: 5px;
+}
+.crichead{
+    position: relative;
+    bottom: 100px;
+    padding: 3%;
+    color: white;
+    border-radius: 5px;
+}
+.business{
+    display: grid;
+    background-color: white;
+    padding: 5%;
+    border-radius: 10px;
+    font-size: 22.5px;
+}
+.businessone{
+    display: flex;
+    gap: 20px;
+}
+*{
+    border-radius: 5px;
+}
+.aefl{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+}
+.education{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 1%;
+}
