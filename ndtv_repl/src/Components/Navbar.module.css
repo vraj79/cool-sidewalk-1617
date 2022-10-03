@@ -1,0 +1,30 @@
+.nav_first{
+    background-color: rgb(66, 63, 63);
+    color: white;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    color: rgb(199, 193, 193);
+}
+.nav_down{
+    display: flex;
+    gap: 10px;
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+}
+.nav_down_img{
+    width: 7%;
+    height: 50px;
+ }
+ .nav_down_icon{
+    width: 3%;
+    height: 45px;
+    border-radius: 50%;
+ }
+ body{
+
+ }
